@@ -1,1 +1,1 @@
-[GitHub Pages](https://toshiteshigure.github.io/coffika-landing-page/)
+[GitHub Pages](https://tsuyune.github.io/coffika-landing-page/)
